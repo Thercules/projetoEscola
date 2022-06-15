@@ -164,7 +164,7 @@ public class LoginPagina extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
        String secreto = codSecreto.getText();
-       if(secreto.equals("GRUPO1")){
+       if(secreto.equals("kevinalpha")){
            JOptionPane.showMessageDialog(this, "O usuário e senha padrão é admin");
        }
     }//GEN-LAST:event_jButton2ActionPerformed
